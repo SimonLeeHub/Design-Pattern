@@ -1,0 +1,29 @@
+﻿生成启动时间为 2019/2/11 17:00:04。
+     1>项目“d:\Users\ji.li\Desktop\CProject\DesignPattern\FactoryMethod\FactoryMethod\FactoryMethod.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\FactoryMethod.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ChicagoPizzaStore.cpp ChicagoStyleCheesePizza.cpp FactoryMethod.cpp NYPizzaStore.cpp NYStyleCheesePizza.cpp Pizza.cpp PizzaStore.cpp
+         ChicagoPizzaStore.cpp
+         正在生成代码...
+         正在编译...
+         PizzaStore.cpp
+         Pizza.cpp
+         NYStyleCheesePizza.cpp
+         NYPizzaStore.cpp
+         FactoryMethod.cpp
+         ChicagoStyleCheesePizza.cpp
+         正在生成代码...
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Users\ji.li\Desktop\CProject\DesignPattern\FactoryMethod\Debug\FactoryMethod.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\Users\ji.li\Desktop\CProject\DesignPattern\FactoryMethod\Debug\FactoryMethod.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Users\ji.li\Desktop\CProject\DesignPattern\FactoryMethod\Debug\FactoryMethod.lib" /MACHINE:X86 Debug\ChicagoPizzaStore.obj
+         Debug\ChicagoStyleCheesePizza.obj
+         Debug\FactoryMethod.obj
+         Debug\NYPizzaStore.obj
+         Debug\NYStyleCheesePizza.obj
+         Debug\Pizza.obj
+         Debug\PizzaStore.obj
+         Debug\stdafx.obj
+         FactoryMethod.vcxproj -> d:\Users\ji.li\Desktop\CProject\DesignPattern\FactoryMethod\Debug\FactoryMethod.exe
+     1>已完成生成项目“d:\Users\ji.li\Desktop\CProject\DesignPattern\FactoryMethod\FactoryMethod\FactoryMethod.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.82
